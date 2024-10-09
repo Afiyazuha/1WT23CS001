@@ -6,4 +6,7 @@ Section:B
 Branch:Computer Science
 Year of Admission:2023
 College Name:GITW
+SSLC:Carmel Convent High School
+PUC : Carmel Convent PU College
+UG Degree: Computer Science 
 
